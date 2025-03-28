@@ -49,7 +49,7 @@ For this workshop, we'll be using [Google Colab Notebooks](https://colab.researc
 *Part I*
 
 
-  1. [Programming: NYC Open Data Week 2024](https://2024.open-data.nyc/)
+  1. [NYC Open Data Week past event recordings (including this workshop)](https://2024.open-data.nyc/)
   2. [Dataset: Energy Usage from DOE Buildings](https://data.cityofnewyork.us/Environment/Energy-Usage-From-DOE-Buildings/mq6n-s45c/about_data)
   3. [Dataset dictionary](https://data.cityofnewyork.us/api/views/mq6n-s45c/files/6dfeb54d-5613-41e4-b66d-3e54a516a65c?download=true&filename=Energy_Usage_From_DOE_Buildings.xlsx)
   4. [Google Colab](https://colab.research.google.com/)
