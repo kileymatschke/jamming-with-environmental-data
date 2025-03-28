@@ -1,4 +1,4 @@
-# Jamming with Environmental Data 🌳📊
+# Jamming with Environmental Data🌳📊
 
 
 NYC Open Data Week 2024 Workshop
